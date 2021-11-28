@@ -1,6 +1,5 @@
-# Project Title
+# Project: Recipes 
 
-Project: Recipes 
 Showcase of my favorite dishes! 
 
 ## Description
